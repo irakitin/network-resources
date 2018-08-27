@@ -1,0 +1,6 @@
+---
+# Add global settings here
+
+# aws-cloudformation role settings
+Stack.Name: network-resources
+Stack.Template: "templates/network.yml.j2"

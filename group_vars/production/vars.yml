@@ -1,0 +1,7 @@
+Sts.Role: arn:aws:iam::875455485177:role/DockerProductionAWSAdmin
+Sts.Region: eu-central-1
+
+Config.Vpcs:
+  default:
+    Cidr: 192.168.0.0/20
+    Domain: dockerproductionaws.org
